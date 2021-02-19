@@ -1,6 +1,9 @@
 #texto{
     color: deepskyblue;
+    font-size: 50px;
+    margin:20px;
 }
 #button{
     background-color:gold;
+    padding: 20px;
 }
